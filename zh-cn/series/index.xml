@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on 席英硕</title>
-    <link>http://www.example.com/zh-cn/series/</link>
+    <link>YingshuoXi.github.io/zh-cn/series/</link>
     <description>Recent content in Series on 席英硕</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="http://www.example.com/zh-cn/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="YingshuoXi.github.io/zh-cn/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

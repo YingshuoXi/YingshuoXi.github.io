@@ -2,112 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/zh-cn/authors/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="YingshuoXi.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/authors/"
+                href="YingshuoXi.github.io/zh-cn/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/zh-cn/categories/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="YingshuoXi.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/categories/"
+                href="YingshuoXi.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/zh-cn/series/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="YingshuoXi.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/series/"
+                href="YingshuoXi.github.io/zh-cn/series/"
                 />
   </url><url>
-    <loc>http://www.example.com/zh-cn/tags/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="YingshuoXi.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/tags/"
+                href="YingshuoXi.github.io/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/zh-cn/cv/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/cv/"
+                href="YingshuoXi.github.io/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/cv/"
+                href="YingshuoXi.github.io/zh-cn/cv/"
                 />
   </url><url>
-    <loc>http://www.example.com/zh-cn/about/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="YingshuoXi.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/about/"
+                href="YingshuoXi.github.io/zh-cn/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/zh-cn/contact/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="YingshuoXi.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/contact/"
+                href="YingshuoXi.github.io/zh-cn/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/zh-cn/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="YingshuoXi.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/"
+                href="YingshuoXi.github.io/zh-cn/"
                 />
   </url><url>
-    <loc>http://www.example.com/zh-cn/projects/</loc>
+    <loc>YingshuoXi.github.io/zh-cn/projects/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="YingshuoXi.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://www.example.com/zh-cn/projects/"
+                href="YingshuoXi.github.io/zh-cn/projects/"
                 />
   </url>
 </urlset>
