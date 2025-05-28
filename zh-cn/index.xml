@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>席英硕</title>
-    <link>YingshuoXi.github.io/zh-cn/</link>
+    <link>https://YingshuoXi.github.io/zh-cn/</link>
     <description>Recent content on 席英硕</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <atom:link href="YingshuoXi.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://YingshuoXi.github.io/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>个人简历（通用简化版）</title>
-      <link>YingshuoXi.github.io/zh-cn/cv/</link>
+      <link>https://YingshuoXi.github.io/zh-cn/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>YingshuoXi.github.io/zh-cn/cv/</guid>
+      <guid>https://YingshuoXi.github.io/zh-cn/cv/</guid>
       <description>&lt;h1 id=&#34;教育经历&#34;&gt;&#xA;  教育经历&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%95%99%e8%82%b2%e7%bb%8f%e5%8e%86&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;2022 - 2024 理学硕士，人工智能，比利时鲁汶大学 (KU Leuven)&lt;/p&gt;&#xA;&lt;p&gt;2021 - 2022 理学硕士，电子与信息通信技术工程技术，比利时鲁汶大学 (KU Leuven)&lt;/p&gt;&#xA;&lt;p&gt;2019 - 2021 理学学士，电子工程技术，比利时鲁汶大学 (KU Leuven)&lt;/p&gt;&#xA;&lt;p&gt;2017 - 2019 工学学士，电子科学与技术，天津大学&lt;/p&gt;&#xA;&lt;h1 id=&#34;硕士论文&#34;&gt;&#xA;  硕士论文&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e7%a1%95%e5%a3%ab%e8%ae%ba%e6%96%87&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;2021 - 2022 用于 OpenWiFi 的高吞吐量开源维特比解码器&lt;/p&gt;&#xA;&lt;p&gt;2022 - 2023 神经网络中多项式激活函数的研究&lt;/p&gt;&#xA;&lt;h1 id=&#34;项目&#34;&gt;&#xA;  项目&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e9%a1%b9%e7%9b%ae&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;婴儿喘息疾病分类 - 音频 &lt;em&gt;数字信号处理 + 机器学习&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;基于蓝牙的音箱设计 - 蓝牙 PCB + MCU + DAC&lt;/p&gt;&#xA;&lt;h1 id=&#34;实习&#34;&gt;&#xA;  实习&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e5%ae%9e%e4%b9%a0&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;2022年7月至10月 华为技术研发中心，比利时&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;海思无线网络架构与系统设计部门&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;语言&#34;&gt;&#xA;  语言&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e8%af%ad%e8%a8%80&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;链接到标题&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;链接到标题&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;中文 - 母语&lt;/p&gt;</description>
     </item>
     <item>
       <title>关于</title>
-      <link>YingshuoXi.github.io/zh-cn/about/</link>
+      <link>https://YingshuoXi.github.io/zh-cn/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>YingshuoXi.github.io/zh-cn/about/</guid>
+      <guid>https://YingshuoXi.github.io/zh-cn/about/</guid>
       <description>&lt;p&gt;这是一个用于测试的默认页面。&lt;/p&gt;</description>
     </item>
     <item>
       <title>联系方式</title>
-      <link>YingshuoXi.github.io/zh-cn/contact/</link>
+      <link>https://YingshuoXi.github.io/zh-cn/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>YingshuoXi.github.io/zh-cn/contact/</guid>
+      <guid>https://YingshuoXi.github.io/zh-cn/contact/</guid>
       <description>&lt;p&gt;请通过以下方式和我取得联系：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;电子邮件&lt;/strong&gt; &lt;a href=&#34;mailto:yingshuo.xi@qq.com&#34; &gt;yingshuo.xi@qq.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;领英&lt;/strong&gt;  &lt;a href=&#34;linkedin.com/in/yingshuo-xi&#34; &gt;linkedin.com/in/yingshuo-xi&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;电话&lt;/strong&gt; (CN) +86 185 2262 2272 / (BE) +32 496 79 14 15&lt;/p&gt;</description>
     </item>
     <item>
       <title>项目汇总</title>
-      <link>YingshuoXi.github.io/zh-cn/projects/</link>
+      <link>https://YingshuoXi.github.io/zh-cn/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>YingshuoXi.github.io/zh-cn/projects/</guid>
+      <guid>https://YingshuoXi.github.io/zh-cn/projects/</guid>
       <description>&lt;p&gt;项目会在未来更新。&lt;/p&gt;</description>
     </item>
   </channel>
